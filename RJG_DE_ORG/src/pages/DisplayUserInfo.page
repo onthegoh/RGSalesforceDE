@@ -1,0 +1,6 @@
+<apex:page sidebar="false">
+    <apex:pageBlock title="UserStatus">
+    {! $User.firstName}
+    
+    </apex:pageBlock>
+</apex:page>
