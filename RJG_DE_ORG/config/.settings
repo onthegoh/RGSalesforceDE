@@ -1,0 +1,20 @@
+{
+    "username": "randyjgoh@gmail.com", 
+    "project_name": "RJG_DE_ORG", 
+    "org_url": "", 
+    "namespace": "", 
+    "metadata_container": "1dcj0000000h8HkAAI", 
+    "environment": "production", 
+    "workspace": "/Users/rgoh/Devtool/Workspace", 
+    "id": "CWFPH40DSY8EM1UK6TFX8RPIT3Z0WT3A", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomLabels", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
