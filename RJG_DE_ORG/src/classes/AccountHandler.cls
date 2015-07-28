@@ -1,5 +1,7 @@
 public class AccountHandler {
 
+
+//HERE 
     public static Account insertNewAccount(String s) {
         if(s != '') {
         Account a = new Account(Name=s);
@@ -9,6 +11,5 @@ public class AccountHandler {
             return null;
         }
     }
-  //welcome test sample
-  //welcome Test sample. Added Comment.
+
 }
