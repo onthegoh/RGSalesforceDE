@@ -1,6 +1,7 @@
 public class VerifyDate {
 
 //SAMPLES ADDED
+// Comment 24
 
 	//method to handle potential checks against two dates
 	public static Date CheckDates(Date date1, Date date2) {
@@ -11,7 +12,7 @@ public class VerifyDate {
 			return SetEndOfMonthDate(date1);
 		}
 	}
-	
+
 	//method to check if date2 is within the next 30 days of date1
 	private static Boolean DateWithin30Days(Date date1, Date date2) {
 		Date date30Days = date1.addDays(30); //create a date 30 days away from date1
